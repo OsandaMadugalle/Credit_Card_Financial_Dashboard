@@ -9,6 +9,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Real-time credit card KPIs and trends
 - Age and income group segmentation
 - Weekly and YTD revenue analysis
+  - **WoW (Week-over-Week):** Comparison of metrics between one week and the previous week to show short-term trends.
+  - **YTD (Year-to-Date):** Cumulative total of a metric from the start of the year to the present date.
 - Card type and regional contribution breakdown
 - Activation and delinquency rates
 - Multi-page interactive dashboard
